@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "JAVA OOP COURSE_41f2baef"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AOps",
+            "request": "launch",
+            "mainClass": "AOps",
+            "projectName": "JAVA OOP COURSE_41f2baef"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "JAVA OOP COURSE_41f2baef"
+        },
+        {
+            "type": "java",
+            "name": "LOps",
+            "request": "launch",
+            "mainClass": "LOps",
+            "projectName": "JAVA OOP COURSE_41f2baef"
+        },
+        {
+            "type": "java",
+            "name": "ROps",
+            "request": "launch",
+            "mainClass": "ROps",
+            "projectName": "JAVA OOP COURSE_41f2baef"
+        },
+        {
+            "type": "java",
+            "name": "datatypes",
+            "request": "launch",
+            "mainClass": "datatypes",
+            "projectName": "JAVA OOP COURSE_41f2baef"
+        },
+        {
+            "type": "java",
+            "name": "ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "JAVA OOP COURSE_41f2baef"
+        },
+        {
+            "type": "java",
+            "name": "literals",
+            "request": "launch",
+            "mainClass": "literals",
+            "projectName": "JAVA OOP COURSE_41f2baef"
+        },
+        {
+            "type": "java",
+            "name": "newswitch",
+            "request": "launch",
+            "mainClass": "newswitch",
+            "projectName": "JAVA OOP COURSE_41f2baef"
+        },
+        {
+            "type": "java",
+            "name": "switchcase",
+            "request": "launch",
+            "mainClass": "switchcase",
+            "projectName": "JAVA OOP COURSE_41f2baef"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "JAVA OOP COURSE_41f2baef"
+        }
+    ]
+}
